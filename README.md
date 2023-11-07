@@ -59,7 +59,7 @@ See latest changes [here](https://github.com/Harmless05/vmware/releases/).
 
 ## License
 
-This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
